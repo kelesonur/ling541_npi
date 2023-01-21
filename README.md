@@ -1,1 +1,1 @@
-# ling541_npi
+This Github repository contains the R code and data used for the analysis in the paper entitled "NPI Illusion Effects in Turkish," written by Onur Keleş and Kübra Yıldırım as the final paper assignment for the course LING 541 - Syntactic Theory taught by Dr. Ömer Demirok. The paper examines the syntactic processing of negative polarity items (NPIs) in Turkish and test existing theories regarding NPIs, specifically focusing on the phenomenon known as "NPI illusion effects." 
