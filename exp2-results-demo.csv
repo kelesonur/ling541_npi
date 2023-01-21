@@ -1,0 +1,1106 @@
+#
+# Results on Fri, 13 Jan 2023 08:00:58 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,1,0,Consent,NULL,PennController,0,_Trial_,Start,1673596830603,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,1,0,Consent,NULL,TextInput,input_name,Final,,1673596832257,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,1,0,Consent,NULL,PennController,0,_Trial_,End,1673596832258,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,Start,1673596832263,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,End,1673596833270,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,Start,1673596833273,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,End,1673596834621,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,Start,1673596834624,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,5,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673596834885,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,5,0,PracticeTrial,NULL,Scale,q,Choice,2,1673596836171,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,End,1673596836172,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,Start,1673596836175,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,6,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673596836432,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,6,0,PracticeTrial,NULL,Scale,q,Choice,3,1673596837037,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,End,1673596837038,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,Start,1673596837040,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,4,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673596837296,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,4,0,PracticeTrial,NULL,Scale,q,Choice,4,1673596837736,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,End,1673596837738,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,Start,1673596837740,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,End,1673596842744,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,16,0,Filler,NULL,PennController,16,_Trial_,Start,1673596842755,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,16,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596843014,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,16,0,Filler,NULL,Scale,q,Choice,3,1673596848403,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,16,0,Filler,NULL,PennController,16,_Trial_,End,1673596848404,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,10,0,Filler,NULL,PennController,10,_Trial_,Start,1673596848408,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,10,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596848666,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,10,0,Filler,NULL,Scale,q,Choice,1,1673596849263,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,10,0,Filler,NULL,PennController,10,_Trial_,End,1673596849265,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,15,0,Filler,NULL,PennController,15,_Trial_,Start,1673596849267,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,15,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596849525,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,15,0,Filler,NULL,Scale,q,Choice,2,1673596851418,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,15,0,Filler,NULL,PennController,15,_Trial_,End,1673596851420,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,8,0,Filler,NULL,PennController,8,_Trial_,Start,1673596851422,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,8,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596851676,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,8,0,Filler,NULL,Scale,q,Choice,3,1673596852204,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,8,0,Filler,NULL,PennController,8,_Trial_,End,1673596852205,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,13,0,Filler,NULL,PennController,13,_Trial_,Start,1673596852207,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,13,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596852461,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,13,0,Filler,NULL,Scale,q,Choice,3,1673596854114,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,13,0,Filler,NULL,PennController,13,_Trial_,End,1673596854115,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,12,0,Filler,NULL,PennController,12,_Trial_,Start,1673596854117,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,12,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596854371,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,12,0,Filler,NULL,Scale,q,Choice,4,1673596855865,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,12,0,Filler,NULL,PennController,12,_Trial_,End,1673596855866,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,9,0,Filler,NULL,PennController,9,_Trial_,Start,1673596855868,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,9,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596856125,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,9,0,Filler,NULL,Scale,q,Choice,4,1673596856564,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,9,0,Filler,NULL,PennController,9,_Trial_,End,1673596856565,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,11,0,Filler,NULL,PennController,11,_Trial_,Start,1673596856566,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,11,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596856823,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,11,0,Filler,NULL,Scale,q,Choice,4,1673596857362,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,11,0,Filler,NULL,PennController,11,_Trial_,End,1673596857363,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,14,0,Filler,NULL,PennController,14,_Trial_,Start,1673596857365,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,14,0,Filler,NULL,Text,FlashSentence,Print,NA,1673596857620,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,14,0,Filler,NULL,Scale,q,Choice,4,1673596858269,NULL
+1673596858,ad7addaea128b26386790c496f2e2ead,PennController,14,0,Filler,NULL,PennController,14,_Trial_,End,1673596858270,NULL
+#
+# Results on Fri, 13 Jan 2023 12:00:52 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,PennController,0,_Trial_,Start,1673610863036,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,TextInput,input_name,First,,1673610902488,K
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,TextInput,input_name,Final,Kübra Yıldırım,1673610909508,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,PennController,0,_Trial_,End,1673610909509,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,Start,1673610909522,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,End,1673610947309,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,Start,1673610947320,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,End,1673610965292,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,Start,1673610965306,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673610965571,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,Scale,q,Choice,4,1673610982290,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,End,1673610982295,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,Start,1673610982304,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673610982565,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,Scale,q,Choice,1,1673610987554,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,End,1673610987559,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,Start,1673610987568,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673610987828,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,Scale,q,Choice,5,1673610997094,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,End,1673610997098,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,Start,1673610997107,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,End,1673611002114,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,Start,1673611002125,16,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611002386,16,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,Scale,q,Choice,1,1673611018243,16,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,End,1673611018247,16,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,Start,1673611018257,8,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611018516,8,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,Scale,q,Choice,1,1673611031385,8,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,End,1673611031388,8,2,unlicensed,DIk,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,PennController,14,_Trial_,Start,1673611031400,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611031658,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,Scale,q,Choice,1,1673611036727,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,PennController,14,_Trial_,End,1673611036730,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,Start,1673611036740,15,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611036999,15,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,Scale,q,Choice,5,1673611041068,15,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,End,1673611041072,15,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,Start,1673611041080,18,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611041339,18,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,Scale,q,Choice,1,1673611044626,18,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,End,1673611044628,18,2,licensed,DIk,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,PennController,9,_Trial_,Start,1673611044637,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611044894,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,Scale,q,Choice,1,1673611052267,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,PennController,9,_Trial_,End,1673611052270,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,Start,1673611052278,14,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611052538,14,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,Scale,q,Choice,1,1673611057093,14,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,End,1673611057096,14,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,Start,1673611057104,2,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611057361,2,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,Scale,q,Choice,1,1673611068375,2,2,unlicensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,End,1673611068379,2,2,unlicensed,DIk,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,PennController,8,_Trial_,Start,1673611068388,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611068647,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,Scale,q,Choice,5,1673611073533,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,PennController,8,_Trial_,End,1673611073537,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,Start,1673611073544,3,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611073804,3,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,Scale,q,Choice,4,1673611089716,3,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,End,1673611089719,3,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,Start,1673611089727,10,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611089983,10,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,Scale,q,Choice,5,1673611117947,10,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,End,1673611117950,10,2,long-distance,mA,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,PennController,15,_Trial_,Start,1673611117958,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611118215,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,Scale,q,Choice,1,1673611129065,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,PennController,15,_Trial_,End,1673611129068,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,Start,1673611129075,1,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611129332,1,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,Scale,q,Choice,4,1673611137797,1,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,End,1673611137800,1,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,Start,1673611137808,13,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611138065,13,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,Scale,q,Choice,5,1673611145271,13,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,End,1673611145274,13,2,long-distance,DIk,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,PennController,12,_Trial_,Start,1673611145282,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611145538,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,Scale,q,Choice,4,1673611158587,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,PennController,12,_Trial_,End,1673611158590,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,Start,1673611158598,6,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611158854,6,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,Scale,q,Choice,5,1673611168970,6,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,End,1673611168973,6,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,Start,1673611168980,17,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611169237,17,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,Scale,q,Choice,1,1673611185294,17,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,End,1673611185297,17,2,unlicensed,mA,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,PennController,13,_Trial_,Start,1673611185305,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611185564,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,Scale,q,Choice,5,1673611190445,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,PennController,13,_Trial_,End,1673611190447,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,Start,1673611190455,5,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611190711,5,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,Scale,q,Choice,1,1673611204287,5,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,End,1673611204289,5,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,Start,1673611204296,4,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611204552,4,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,Scale,q,Choice,5,1673611208337,4,2,long-distance,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,End,1673611208339,4,2,long-distance,mA,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,PennController,16,_Trial_,Start,1673611208346,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611208602,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,Scale,q,Choice,5,1673611214228,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,PennController,16,_Trial_,End,1673611214230,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,Start,1673611214238,7,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611214494,7,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,Scale,q,Choice,5,1673611218852,7,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,End,1673611218855,7,2,long-distance,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,Start,1673611218862,9,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611219119,9,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,Scale,q,Choice,5,1673611224469,9,2,licensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,End,1673611224471,9,2,licensed,mA,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,PennController,11,_Trial_,Start,1673611224479,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611224737,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,Scale,q,Choice,1,1673611227993,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,PennController,11,_Trial_,End,1673611227996,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,Start,1673611228003,11,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611228259,11,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,Scale,q,Choice,2,1673611243759,11,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,End,1673611243762,11,2,unlicensed,mA,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,Start,1673611243769,12,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673611244025,12,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,Scale,q,Choice,5,1673611248526,12,2,licensed,DIk,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,End,1673611248528,12,2,licensed,DIk,NULL
+# 13. Comments.
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,PennController,10,_Trial_,Start,1673611248535,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,Text,FlashSentence,Print,NA,1673611248792,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,Scale,q,Choice,5,1673611252043,NULL
+1673611252,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,PennController,10,_Trial_,End,1673611252045,NULL
+#
+# Results on Sat, 14 Jan 2023 10:23:43 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,PennController,0,_Trial_,Start,1673691651446,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,TextInput,input_name,First,,1673691653674,K
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,PennController,0,_Trial_,End,1673691658721,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,TextInput,input_name,Final,Kübra Yıldırım,1673691658721,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,Start,1673691658731,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,End,1673691661082,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,Start,1673691661094,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,End,1673691663089,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,Start,1673691663101,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673691663364,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,Scale,q,Choice,1,1673691669930,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,End,1673691669934,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,Start,1673691669944,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673691670206,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,Scale,q,Choice,5,1673691671886,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,End,1673691671891,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,Start,1673691671900,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673691672159,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,Scale,q,Choice,4,1673691676035,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,End,1673691676039,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,Start,1673691676048,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,End,1673691681058,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,Start,1673691681070,8,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691681331,8,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,Scale,q,Choice,5,1673691686969,8,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,End,1673691686974,8,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,Start,1673691686984,3,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691687242,3,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,Scale,q,Choice,5,1673691695310,3,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,End,1673691695314,3,3,long-distance,mA,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,PennController,9,_Trial_,Start,1673691695323,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691695581,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,Scale,q,Choice,1,1673691702159,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,PennController,9,_Trial_,End,1673691702162,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,Start,1673691702170,7,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691702431,7,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,Scale,q,Choice,1,1673691706167,7,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,End,1673691706171,7,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,Start,1673691706179,4,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691706436,4,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,Scale,q,Choice,1,1673691711525,4,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,End,1673691711528,4,3,unlicensed,mA,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,PennController,14,_Trial_,Start,1673691711536,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691711794,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,Scale,q,Choice,1,1673691713459,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,PennController,14,_Trial_,End,1673691713462,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,Start,1673691713472,6,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691713730,6,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,Scale,q,Choice,5,1673691728466,6,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,End,1673691728470,6,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,Start,1673691728479,10,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691728735,10,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,Scale,q,Choice,1,1673691734642,10,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,End,1673691734645,10,3,unlicensed,mA,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,PennController,8,_Trial_,Start,1673691734653,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691734911,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,Scale,q,Choice,5,1673691739441,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,PennController,8,_Trial_,End,1673691739445,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,Start,1673691739452,16,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691739709,16,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,Scale,q,Choice,1,1673691746857,16,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,End,1673691746860,16,3,unlicensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,Start,1673691746870,14,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691747128,14,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,Scale,q,Choice,5,1673691750989,14,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,End,1673691750992,14,3,licensed,mA,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,PennController,11,_Trial_,Start,1673691751000,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691751257,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,Scale,q,Choice,1,1673691753940,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,PennController,11,_Trial_,End,1673691753943,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,Start,1673691753951,12,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691754208,12,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,Scale,q,Choice,5,1673691758041,12,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,End,1673691758044,12,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,Start,1673691758051,17,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691758308,17,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,Scale,q,Choice,5,1673691761841,17,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,End,1673691761843,17,3,licensed,DIk,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,PennController,13,_Trial_,Start,1673691761850,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691762108,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,Scale,q,Choice,5,1673691764972,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,PennController,13,_Trial_,End,1673691764975,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,Start,1673691764983,9,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691765240,9,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,Scale,q,Choice,1,1673691772341,9,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,End,1673691772343,9,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,Start,1673691772350,11,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691772607,11,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,Scale,q,Choice,5,1673691777372,11,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,End,1673691777375,11,3,licensed,DIk,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,PennController,16,_Trial_,Start,1673691777383,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691777641,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,Scale,q,Choice,5,1673691779363,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,PennController,16,_Trial_,End,1673691779366,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,Start,1673691779372,5,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691779629,5,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,Scale,q,Choice,5,1673691785171,5,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,End,1673691785174,5,3,licensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,Start,1673691785181,15,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691785437,15,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,Scale,q,Choice,1,1673691792622,15,3,long-distance,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,End,1673691792624,15,3,long-distance,mA,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,PennController,10,_Trial_,Start,1673691792631,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691792889,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,Scale,q,Choice,5,1673691796630,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,PennController,10,_Trial_,End,1673691796632,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,Start,1673691796640,1,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691796897,1,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,Scale,q,Choice,1,1673691800130,1,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,End,1673691800133,1,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,Start,1673691800139,13,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691800395,13,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,Scale,q,Choice,1,1673691805213,13,3,unlicensed,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,End,1673691805215,13,3,unlicensed,DIk,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,PennController,15,_Trial_,Start,1673691805222,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691805479,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,Scale,q,Choice,1,1673691809996,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,PennController,15,_Trial_,End,1673691809999,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,Start,1673691810005,18,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691810262,18,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,Scale,q,Choice,5,1673691813871,18,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,End,1673691813873,18,3,long-distance,DIk,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,Start,1673691813879,2,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673691814136,2,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,Scale,q,Choice,5,1673691819054,2,3,licensed,mA,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,End,1673691819056,2,3,licensed,mA,NULL
+# 13. Comments.
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,PennController,12,_Trial_,Start,1673691819064,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,Text,FlashSentence,Print,NA,1673691819318,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,Scale,q,Choice,2,1673691823137,NULL
+1673691823,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,PennController,12,_Trial_,End,1673691823141,NULL
+#
+# Results on Sat, 14 Jan 2023 16:00:55 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,PennController,0,_Trial_,Start,1673711773444,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,TextInput,input_name,First,,1673711775436,E
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,TextInput,input_name,Final,Ercan Yıldırım,1673711780604,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,1,0,Consent,NULL,PennController,0,_Trial_,End,1673711780605,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,Start,1673711780616,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,End,1673711808836,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,Start,1673711808847,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,End,1673711810928,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,Start,1673711810940,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673711811206,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,Scale,q,Choice,1,1673711825134,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,End,1673711825139,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,Start,1673711825149,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673711825411,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,Scale,q,Choice,1,1673711831165,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,End,1673711831169,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,Start,1673711831178,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673711831439,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,Scale,q,Choice,5,1673711840739,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,End,1673711840743,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,Start,1673711840752,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,End,1673711845757,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,Start,1673711845769,4,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711846030,4,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,Scale,q,Choice,5,1673711853022,4,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,End,1673711853027,4,4,licensed,DIk,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,PennController,9,_Trial_,Start,1673711853036,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,Text,FlashSentence,Print,NA,1673711853296,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,Scale,q,Choice,5,1673711869235,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,9,0,Filler,NULL,PennController,9,_Trial_,End,1673711869240,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,Start,1673711869250,7,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711869509,7,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,Scale,q,Choice,5,1673711882703,7,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,End,1673711882707,7,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,Start,1673711882714,15,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711882972,15,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,Scale,q,Choice,1,1673711888520,15,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,End,1673711888523,15,4,unlicensed,mA,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,PennController,16,_Trial_,Start,1673711888532,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,Text,FlashSentence,Print,NA,1673711888788,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,Scale,q,Choice,5,1673711894528,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,16,0,Filler,NULL,PennController,16,_Trial_,End,1673711894531,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,Start,1673711894541,13,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711894798,13,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,Scale,q,Choice,5,1673711903660,13,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,End,1673711903663,13,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,Start,1673711903671,6,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711903928,6,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,Scale,q,Choice,1,1673711910601,6,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,End,1673711910604,6,4,unlicensed,DIk,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,PennController,11,_Trial_,Start,1673711910612,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,Text,FlashSentence,Print,NA,1673711910870,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,Scale,q,Choice,1,1673711922159,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,11,0,Filler,NULL,PennController,11,_Trial_,End,1673711922163,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,Start,1673711922172,9,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711922429,9,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,Scale,q,Choice,1,1673711929125,9,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,End,1673711929129,9,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,Start,1673711929137,10,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711929396,10,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,Scale,q,Choice,5,1673711933775,10,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,End,1673711933778,10,4,licensed,DIk,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,PennController,13,_Trial_,Start,1673711933787,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,Text,FlashSentence,Print,NA,1673711934044,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,Scale,q,Choice,5,1673711940018,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,13,0,Filler,NULL,PennController,13,_Trial_,End,1673711940020,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,Start,1673711940025,16,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711940282,16,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,Scale,q,Choice,5,1673711947690,16,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,End,1673711947694,16,4,licensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,Start,1673711947703,14,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711947959,14,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,Scale,q,Choice,2,1673711962440,14,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,End,1673711962443,14,4,long-distance,mA,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,PennController,15,_Trial_,Start,1673711962450,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,Text,FlashSentence,Print,NA,1673711962706,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,Scale,q,Choice,1,1673711972623,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,15,0,Filler,NULL,PennController,15,_Trial_,End,1673711972626,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,Start,1673711972634,11,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711972892,11,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,Scale,q,Choice,1,1673711979881,11,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,End,1673711979883,11,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,Start,1673711979891,18,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711980147,18,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,Scale,q,Choice,1,1673711984805,18,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,End,1673711984808,18,4,unlicensed,DIk,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,PennController,12,_Trial_,Start,1673711984815,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,Text,FlashSentence,Print,NA,1673711985073,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,Scale,q,Choice,1,1673711993747,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,12,0,Filler,NULL,PennController,12,_Trial_,End,1673711993749,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,Start,1673711993756,12,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711994013,12,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,Scale,q,Choice,1,1673711998854,12,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,End,1673711998857,12,4,unlicensed,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,Start,1673711998865,5,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673711999122,5,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,Scale,q,Choice,5,1673712005012,5,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,End,1673712005015,5,4,long-distance,DIk,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,PennController,10,_Trial_,Start,1673712005021,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,Text,FlashSentence,Print,NA,1673712005278,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,Scale,q,Choice,5,1673712010278,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,10,0,Filler,NULL,PennController,10,_Trial_,End,1673712010281,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,Start,1673712010287,2,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712010545,2,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,Scale,q,Choice,5,1673712016678,2,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,End,1673712016681,2,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,Start,1673712016688,17,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712016946,17,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,Scale,q,Choice,5,1673712022787,17,4,long-distance,DIk,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,End,1673712022790,17,4,long-distance,DIk,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,PennController,8,_Trial_,Start,1673712022797,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,Text,FlashSentence,Print,NA,1673712023055,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,Scale,q,Choice,5,1673712027952,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,8,0,Filler,NULL,PennController,8,_Trial_,End,1673712027955,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,Start,1673712027962,3,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712028218,3,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,Scale,q,Choice,1,1673712033052,3,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,End,1673712033055,3,4,unlicensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,Start,1673712033061,8,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712033319,8,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,Scale,q,Choice,5,1673712040343,8,4,long-distance,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,End,1673712040346,8,4,long-distance,mA,NULL
+# 13. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,PennController,14,_Trial_,Start,1673712040352,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,Text,FlashSentence,Print,NA,1673712040609,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,Scale,q,Choice,1,1673712049018,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,14,0,Filler,NULL,PennController,14,_Trial_,End,1673712049020,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,Start,1673712049027,1,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712049284,1,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,Scale,q,Choice,5,1673712055009,1,4,licensed,mA,NULL
+1673712055,5071d942e29abd835fc80c68a8587d42,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,End,1673712055012,1,4,licensed,mA,NULL
+#
+# Results on Sat, 14 Jan 2023 16:17:55 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 15_7_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.4 Mobile/15E148 Safari/604.1
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,1,0,Consent,NULL,PennController,0,_Trial_,Start,1673712830175,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,1,0,Consent,NULL,TextInput,input_name,First,,1673712862133,O
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,1,0,Consent,NULL,TextInput,input_name,Final,Ozan,1673712864900,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,1,0,Consent,NULL,PennController,0,_Trial_,End,1673712864902,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,Start,1673712864929,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,End,1673712891077,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,Start,1673712891098,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,End,1673712896130,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,Start,1673712896155,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,4,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673712896435,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,4,0,PracticeTrial,NULL,Scale,q,Choice,4,1673712908858,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,End,1673712908867,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,Start,1673712908881,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,6,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673712909140,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,6,0,PracticeTrial,NULL,Scale,q,Choice,3,1673712915375,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,End,1673712915385,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,Start,1673712915405,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,5,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673712915676,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,5,0,PracticeTrial,NULL,Scale,q,Choice,1,1673712925509,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,End,1673712925517,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,Start,1673712925535,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,End,1673712930560,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,Start,1673712930584,4,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,20,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712930862,4,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,20,0,Experiment,NULL,Scale,q,Choice,4,1673712945864,4,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,End,1673712945876,4,5,long-distance,DIk,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,14,0,Filler,NULL,PennController,14,_Trial_,Start,1673712945896,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,14,0,Filler,NULL,Text,FlashSentence,Print,NA,1673712946170,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,14,0,Filler,NULL,Scale,q,Choice,1,1673712950829,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,14,0,Filler,NULL,PennController,14,_Trial_,End,1673712950838,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,Start,1673712950857,13,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,29,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712951127,13,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,29,0,Experiment,NULL,Scale,q,Choice,5,1673712955479,13,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,End,1673712955486,13,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,Start,1673712955505,6,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,22,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712955777,6,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,22,0,Experiment,NULL,Scale,q,Choice,5,1673712960079,6,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,End,1673712960084,6,5,licensed,mA,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,13,0,Filler,NULL,PennController,13,_Trial_,Start,1673712960099,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,13,0,Filler,NULL,Text,FlashSentence,Print,NA,1673712960369,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,13,0,Filler,NULL,Scale,q,Choice,5,1673712964524,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,13,0,Filler,NULL,PennController,13,_Trial_,End,1673712964541,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,Start,1673712964551,10,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,26,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712964821,10,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,26,0,Experiment,NULL,Scale,q,Choice,2,1673712969837,10,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,End,1673712969846,10,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,Start,1673712969860,17,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,33,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712970127,17,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,33,0,Experiment,NULL,Scale,q,Choice,1,1673712975220,17,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,End,1673712975238,17,5,unlicensed,DIk,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,9,0,Filler,NULL,PennController,9,_Trial_,Start,1673712975249,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,9,0,Filler,NULL,Text,FlashSentence,Print,NA,1673712975522,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,9,0,Filler,NULL,Scale,q,Choice,5,1673712978751,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,9,0,Filler,NULL,PennController,9,_Trial_,End,1673712978757,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,Start,1673712978771,18,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,34,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712979038,18,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,34,0,Experiment,NULL,Scale,q,Choice,5,1673712986483,18,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,End,1673712986492,18,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,Start,1673712986508,9,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,25,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712986778,9,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,25,0,Experiment,NULL,Scale,q,Choice,5,1673712990368,9,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,End,1673712990375,9,5,licensed,DIk,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,15,0,Filler,NULL,PennController,15,_Trial_,Start,1673712990389,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,15,0,Filler,NULL,Text,FlashSentence,Print,NA,1673712990657,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,15,0,Filler,NULL,Scale,q,Choice,2,1673712995769,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,15,0,Filler,NULL,PennController,15,_Trial_,End,1673712995775,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,Start,1673712995792,7,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,23,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673712996059,7,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,23,0,Experiment,NULL,Scale,q,Choice,5,1673712999952,7,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,End,1673712999960,7,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,Start,1673712999978,1,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,17,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713000245,1,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,17,0,Experiment,NULL,Scale,q,Choice,5,1673713003997,1,5,long-distance,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,End,1673713004011,1,5,long-distance,mA,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,8,0,Filler,NULL,PennController,8,_Trial_,Start,1673713004019,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,8,0,Filler,NULL,Text,FlashSentence,Print,NA,1673713004288,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,8,0,Filler,NULL,Scale,q,Choice,5,1673713008255,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,8,0,Filler,NULL,PennController,8,_Trial_,End,1673713008264,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,Start,1673713008278,2,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,18,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713008547,2,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,18,0,Experiment,NULL,Scale,q,Choice,1,1673713013273,2,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,End,1673713013279,2,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,Start,1673713013288,5,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,21,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713013557,5,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,21,0,Experiment,NULL,Scale,q,Choice,1,1673713018599,5,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,End,1673713018606,5,5,unlicensed,DIk,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,11,0,Filler,NULL,PennController,11,_Trial_,Start,1673713018622,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,11,0,Filler,NULL,Text,FlashSentence,Print,NA,1673713018894,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,11,0,Filler,NULL,Scale,q,Choice,2,1673713022906,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,11,0,Filler,NULL,PennController,11,_Trial_,End,1673713022913,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,Start,1673713022927,14,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,30,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713023196,14,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,30,0,Experiment,NULL,Scale,q,Choice,1,1673713027541,14,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,End,1673713027547,14,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,Start,1673713027559,16,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,32,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713027827,16,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,32,0,Experiment,NULL,Scale,q,Choice,2,1673713033459,16,5,long-distance,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,End,1673713033466,16,5,long-distance,DIk,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,16,0,Filler,NULL,PennController,16,_Trial_,Start,1673713033478,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,16,0,Filler,NULL,Text,FlashSentence,Print,NA,1673713033746,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,16,0,Filler,NULL,Scale,q,Choice,5,1673713037290,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,16,0,Filler,NULL,PennController,16,_Trial_,End,1673713037296,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,Start,1673713037308,15,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,31,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713037578,15,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,31,0,Experiment,NULL,Scale,q,Choice,5,1673713048009,15,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,End,1673713048024,15,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,Start,1673713048047,11,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,27,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713048318,11,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,27,0,Experiment,NULL,Scale,q,Choice,2,1673713053158,11,5,unlicensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,End,1673713053166,11,5,unlicensed,DIk,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,10,0,Filler,NULL,PennController,10,_Trial_,Start,1673713053179,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,10,0,Filler,NULL,Text,FlashSentence,Print,NA,1673713053447,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,10,0,Filler,NULL,Scale,q,Choice,5,1673713056076,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,10,0,Filler,NULL,PennController,10,_Trial_,End,1673713056096,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,Start,1673713056107,8,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,24,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713056380,8,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,24,0,Experiment,NULL,Scale,q,Choice,1,1673713058989,8,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,End,1673713058991,8,5,unlicensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,Start,1673713058995,12,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,28,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713059255,12,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,28,0,Experiment,NULL,Scale,q,Choice,5,1673713064927,12,5,licensed,mA,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,End,1673713064934,12,5,licensed,mA,NULL
+# 13. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,12,0,Filler,NULL,PennController,12,_Trial_,Start,1673713064946,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,12,0,Filler,NULL,Text,FlashSentence,Print,NA,1673713065216,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,12,0,Filler,NULL,Scale,q,Choice,5,1673713071063,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,12,0,Filler,NULL,PennController,12,_Trial_,End,1673713071073,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,Start,1673713071086,3,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,19,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673713071356,3,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,19,0,Experiment,NULL,Scale,q,Choice,5,1673713074630,3,5,licensed,DIk,NULL
+1673713075,56a873544c5c391bdeffe5559f674691,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,End,1673713074638,3,5,licensed,DIk,NULL
+#
+# Results on Sat, 14 Jan 2023 20:33:47 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,1,0,Consent,NULL,PennController,0,_Trial_,Start,1673728230199,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,1,0,Consent,NULL,TextInput,input_name,First,,1673728233478,S
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,1,0,Consent,NULL,TextInput,input_name,Final,Selin Akcanca,1673728261493,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,1,0,Consent,NULL,PennController,0,_Trial_,End,1673728261494,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,Start,1673728261505,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,2,0,ExpInstructions,NULL,PennController,1,_Trial_,End,1673728273376,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,Start,1673728273398,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,3,0,PracticeInstructions,NULL,PennController,2,_Trial_,End,1673728278026,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,Start,1673728278044,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,4,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673728278336,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,4,0,PracticeTrial,NULL,Scale,q,Choice,3,1673728287678,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,4,0,PracticeTrial,NULL,PennController,5,_Trial_,End,1673728287680,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,Start,1673728287685,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,6,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673728287954,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,6,0,PracticeTrial,NULL,Scale,q,Choice,1,1673728291411,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,6,0,PracticeTrial,NULL,PennController,7,_Trial_,End,1673728291418,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,Start,1673728291436,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,5,0,PracticeTrial,NULL,Text,FlashSentence,Print,NA,1673728291708,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,5,0,PracticeTrial,NULL,Scale,q,Choice,1,1673728294945,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,5,0,PracticeTrial,NULL,PennController,6,_Trial_,End,1673728294951,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,Start,1673728294966,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,7,0,expstarts,NULL,PennController,3,_Trial_,End,1673728299979,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,Start,1673728299997,14,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,30,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728300287,14,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,30,0,Experiment,NULL,Scale,q,Choice,3,1673728311888,14,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,30,0,Experiment,NULL,PennController,30,_Trial_,End,1673728311896,14,6,licensed,DIk,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,12,0,Filler,NULL,PennController,12,_Trial_,Start,1673728311902,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,12,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728312168,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,12,0,Filler,NULL,Scale,q,Choice,4,1673728317960,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,12,0,Filler,NULL,PennController,12,_Trial_,End,1673728317966,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,Start,1673728317975,6,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,22,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728318256,6,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,22,0,Experiment,NULL,Scale,q,Choice,4,1673728323279,6,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,22,0,Experiment,NULL,PennController,22,_Trial_,End,1673728323284,6,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,Start,1673728323296,17,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,33,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728323566,17,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,33,0,Experiment,NULL,Scale,q,Choice,5,1673728327682,17,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,33,0,Experiment,NULL,PennController,33,_Trial_,End,1673728327687,17,6,licensed,mA,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,11,0,Filler,NULL,PennController,11,_Trial_,Start,1673728327702,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,11,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728327976,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,11,0,Filler,NULL,Scale,q,Choice,1,1673728332430,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,11,0,Filler,NULL,PennController,11,_Trial_,End,1673728332434,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,Start,1673728332446,4,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,20,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728332715,4,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,20,0,Experiment,NULL,Scale,q,Choice,2,1673728335774,4,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,20,0,Experiment,NULL,PennController,20,_Trial_,End,1673728335775,4,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,Start,1673728335778,1,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,17,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728336044,1,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,17,0,Experiment,NULL,Scale,q,Choice,1,1673728338926,1,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,17,0,Experiment,NULL,PennController,17,_Trial_,End,1673728338927,1,6,unlicensed,mA,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,15,0,Filler,NULL,PennController,15,_Trial_,Start,1673728338930,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,15,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728339194,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,15,0,Filler,NULL,Scale,q,Choice,1,1673728343397,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,15,0,Filler,NULL,PennController,15,_Trial_,End,1673728343401,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,Start,1673728343414,7,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,23,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728343693,7,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,23,0,Experiment,NULL,Scale,q,Choice,1,1673728346149,7,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,23,0,Experiment,NULL,PennController,23,_Trial_,End,1673728346153,7,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,Start,1673728346164,10,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,26,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728346424,10,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,26,0,Experiment,NULL,Scale,q,Choice,1,1673728348667,10,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,26,0,Experiment,NULL,PennController,26,_Trial_,End,1673728348672,10,6,unlicensed,DIk,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,14,0,Filler,NULL,PennController,14,_Trial_,Start,1673728348683,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,14,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728348943,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,14,0,Filler,NULL,Scale,q,Choice,1,1673728353627,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,14,0,Filler,NULL,PennController,14,_Trial_,End,1673728353628,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,Start,1673728353630,15,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,31,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728353893,15,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,31,0,Experiment,NULL,Scale,q,Choice,1,1673728356282,15,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,31,0,Experiment,NULL,PennController,31,_Trial_,End,1673728356283,15,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,Start,1673728356286,12,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,28,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728356563,12,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,28,0,Experiment,NULL,Scale,q,Choice,1,1673728358851,12,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,28,0,Experiment,NULL,PennController,28,_Trial_,End,1673728358856,12,6,long-distance,mA,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,16,0,Filler,NULL,PennController,16,_Trial_,Start,1673728358866,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,16,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728359143,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,16,0,Filler,NULL,Scale,q,Choice,5,1673728362335,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,16,0,Filler,NULL,PennController,16,_Trial_,End,1673728362340,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,Start,1673728362350,11,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,27,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728362623,11,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,27,0,Experiment,NULL,Scale,q,Choice,5,1673728365414,11,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,27,0,Experiment,NULL,PennController,27,_Trial_,End,1673728365415,11,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,Start,1673728365418,8,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,24,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728365683,8,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,24,0,Experiment,NULL,Scale,q,Choice,3,1673728369103,8,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,24,0,Experiment,NULL,PennController,24,_Trial_,End,1673728369104,8,6,licensed,DIk,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,10,0,Filler,NULL,PennController,10,_Trial_,Start,1673728369106,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,10,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728369373,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,10,0,Filler,NULL,Scale,q,Choice,5,1673728374835,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,10,0,Filler,NULL,PennController,10,_Trial_,End,1673728374839,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,Start,1673728374851,16,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,32,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728375133,16,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,32,0,Experiment,NULL,Scale,q,Choice,2,1673728377936,16,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,32,0,Experiment,NULL,PennController,32,_Trial_,End,1673728377940,16,6,unlicensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,Start,1673728377952,18,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,34,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728378223,18,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,34,0,Experiment,NULL,Scale,q,Choice,2,1673728380720,18,6,long-distance,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,34,0,Experiment,NULL,PennController,34,_Trial_,End,1673728380721,18,6,long-distance,mA,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,9,0,Filler,NULL,PennController,9,_Trial_,Start,1673728380724,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,9,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728380983,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,9,0,Filler,NULL,PennController,9,_Trial_,End,1673728386215,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,9,0,Filler,NULL,Scale,q,Choice,5,1673728386215,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,Start,1673728386218,5,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,21,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728386503,5,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,21,0,Experiment,NULL,Scale,q,Choice,2,1673728390421,5,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,21,0,Experiment,NULL,PennController,21,_Trial_,End,1673728390424,5,6,licensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,Start,1673728390435,13,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,29,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728390703,13,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,29,0,Experiment,NULL,Scale,q,Choice,2,1673728392939,13,6,unlicensed,mA,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,29,0,Experiment,NULL,PennController,29,_Trial_,End,1673728392944,13,6,unlicensed,mA,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,8,0,Filler,NULL,PennController,8,_Trial_,Start,1673728392955,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,8,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728393223,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,8,0,Filler,NULL,Scale,q,Choice,5,1673728396402,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,8,0,Filler,NULL,PennController,8,_Trial_,End,1673728396406,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,Start,1673728396416,2,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,18,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728396702,2,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,18,0,Experiment,NULL,PennController,18,_Trial_,End,1673728400551,2,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,18,0,Experiment,NULL,Scale,q,Choice,4,1673728400551,2,6,licensed,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,Start,1673728400554,3,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,19,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728400812,3,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,19,0,Experiment,NULL,Scale,q,Choice,3,1673728408240,3,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,19,0,Experiment,NULL,PennController,19,_Trial_,End,1673728408243,3,6,long-distance,DIk,NULL
+# 13. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,13,0,Filler,NULL,PennController,13,_Trial_,Start,1673728408254,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,13,0,Filler,NULL,Text,FlashSentence,Print,NA,1673728408522,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,13,0,Filler,NULL,Scale,q,Choice,5,1673728415467,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,13,0,Filler,NULL,PennController,13,_Trial_,End,1673728415470,NULL
+# 13. Item.
+# 14. Group.
+# 15. License Type.
+# 16. nominalizer.
+# 17. Comments.
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,Start,1673728415473,9,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,25,0,Experiment,NULL,Text,FlashSentence,Print,NA,1673728415752,9,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,25,0,Experiment,NULL,Scale,q,Choice,2,1673728426041,9,6,long-distance,DIk,NULL
+1673728427,dcff006c0c71f543b53704d4c1c0886a,PennController,25,0,Experiment,NULL,PennController,25,_Trial_,End,1673728426046,9,6,long-distance,DIk,NULL
